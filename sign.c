@@ -68,7 +68,7 @@ int main() {
     fclose(sig_file);
 
     fclose(file_to_sign);
-	printf("File signed successfully!\n")
+	printf("File signed successfully!\n");
 
     return 0;
 }
